@@ -1,0 +1,2 @@
+# Azurehtmlstaticapp
+For HandsOn Lab
